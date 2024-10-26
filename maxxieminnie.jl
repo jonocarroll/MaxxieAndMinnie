@@ -1,15 +1,10 @@
-num = 213
-nv = parse.(Int, split(string(num), ""))
+using Combinatorics
 
 function swap(x, i, j)
     y = copy(x)
     y[i], y[j] = y[j], y[i]
     y
 end
-
-swap(nv, 2, 3)
-
-using Combinatorics
 
 function maxmin(x)
     nvec = parse.(Int64, split(string(x), ""))
