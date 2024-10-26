@@ -27,7 +27,7 @@ Example solutions are given in Clojure
 ## Solutions
 
 This repository contains solutions by me [@jonocarroll](https://github.com/jonocarroll) 
-in:
+in the following languages:
 
 - R
 - Dyalog APL
@@ -36,7 +36,7 @@ in:
 - Haskell
 - Rust
 
-as well as contributed solutions
+as well as contributed solutions:
 
 - J ([@justuswilhelm](https://github.com/justuswilhelm))
 
