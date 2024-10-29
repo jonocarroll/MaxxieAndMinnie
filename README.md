@@ -39,6 +39,7 @@ in the following languages:
 as well as contributed solutions:
 
 - J ([@justuswilhelm](https://github.com/justuswilhelm))
+- Go ([@ayjaygee](https://github.com/ayjaygee))
 
 If you have a solution you would like to include, please add an 
 [Issue](https://github.com/jonocarroll/MaxxieAndMinnie/issues/new/choose) or 
